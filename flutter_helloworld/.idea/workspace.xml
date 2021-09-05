@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="199d542f-8e42-4d77-8d91-6d76342c7ce8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/kotlin/com/example/animatedcontainer__gestiredetector/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10. animatedContainer_&amp;_gestireDetector/web/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xAAoO1KJA8mk4qo9QE1P76MPw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../SDKandroid/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="199d542f-8e42-4d77-8d91-6d76342c7ce8" name="Default Changelist" comment="" />
+      <created>1629787694417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629787694417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
